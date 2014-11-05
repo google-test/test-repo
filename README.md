@@ -1,3 +1,4 @@
 test-repo
 =========
+bar
 foo
